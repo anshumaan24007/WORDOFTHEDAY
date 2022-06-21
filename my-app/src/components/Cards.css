@@ -1,0 +1,26 @@
+.cardContainer{
+    height: 600px;
+    width: 600px;
+    box-shadow: 1px 1px 20px 1px #d7d7d7;
+    display: grid;
+}
+
+.wordContainer{
+    font-size:70px;
+    padding-top: 8%;
+    padding-left: 5%;
+    padding-right: 15%;
+    word-break:break-word;
+    height: fit-content;
+    font-family: 'Playfair Display', serif;
+  }
+
+  .meaningContainer{
+    font-size:20px;
+    padding-top: 8%;
+    padding-left: 5%;
+    padding-right: 5%;
+    word-break:break-word;
+    height: fit-content;
+    font-family: 'Cormorant Garamond', serif;
+  }
